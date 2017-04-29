@@ -1,1 +1,34 @@
 
+{
+  "name": "origoni-startbootstrap-clean-blog",
+  "description": "Clean Blog (forked from IronSummitMedia)",
+  "version": "1.0.3",
+  "keywords": [],
+  "homepage": "http://startbootstrap.com/template-overviews/clean-blog/",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["APACHE-2.0"],
+  "main": [
+    "./css/clean-blog.css",
+	  "./css/clean-blog.min.css",
+    "./js/clean-blog.js",
+	  "./js/clean-blog.min.js"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+	  "fonts",
+    "src",
+	  "img",
+	  "less",
+	  "mail",
+    "*.md",
+	  "*.html",
+	  "./css/bootstrap.css",
+	  "./css/bootstrap.min.css",
+	  "./js/bootstrap.js",
+	  "./js/bootstrap.min.js",
+	  "./js/jquery.js",
+	  "./js/jquery.min.js"
+  ]
+}
